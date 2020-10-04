@@ -100,5 +100,3 @@ if __name__ == '__main__':
                     TextArea.config(yscrollcommand=Scroll.set)
     root.mainloop()
     
-    #this is the best
-
